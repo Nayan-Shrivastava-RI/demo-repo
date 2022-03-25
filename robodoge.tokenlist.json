@@ -1,0 +1,22 @@
+{
+  "name": "robodoge Tokenlist",
+  "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
+  "keywords": [
+  ],
+  "version": {
+    "major": 0,
+    "minor": 3,
+    "patch": 0
+  },
+  "timestamp": "2022-03-15T10:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 43113,
+      "address": "0x75655d38E5Aadaf32071754F28ae11781C96bcC0",
+      "decimals": 9,
+      "name": "RoboDoge Coin",
+      "symbol": "ROBODOGE",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+    }
+    ]
+}
